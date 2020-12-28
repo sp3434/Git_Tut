@@ -1,0 +1,6 @@
+-----How to add the code in git hub-----
+git status
+git add .  --For Stage File--To add code--
+git commit -m "Version 1"
+git log  --To check who is updated the code alst time.
+------------
