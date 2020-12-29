@@ -1,6 +1,13 @@
 -----How to add the code in git hub-----
-git status
-git add .  --For Stage File--To add code--
-git commit -m "Version 1"
-git log  --To check who is updated the code alst time.
+Step 01) git status
+only One time use : Step 02) git init   ===To intialize the File in Git--Its do on time only  ..if u update the things then u can use (git add .) Command
+Step 03) git add .  --For Stage File--To add code-- 
+Step 04) git commit -m "Version 1" -- Commited With Version name
+  git log  --To check who is updated the code alst time.
 ------------
+If you want to change user name & Email Add:
+---------------------
+git config --global user.name "shashi"
+git config --global user.email "shashi"
+------------
+ssh-keygen -t ed25519 -C "shashiprakash9595@gmail.com"
