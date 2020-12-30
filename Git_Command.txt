@@ -4,6 +4,11 @@ only One time use : Step 02) git init   ===To intialize the File in Git--Its do 
 Step 03) git add .  --For Stage File--To add code-- 
 Step 04) git commit -m "Version 1" -- Commited With Version name
   git log  --To check who is updated the code alst time.
+----------For Push Code on Git hub-----------
+git remote add origin git@github.com:sp3434/Git_Tut.git -----
+git push -u origin master   ---Pushing code on Master Git 
+-------------------------------------------------------
+
 ------------
 If you want to change user name & Email Add:
 ---------------------
